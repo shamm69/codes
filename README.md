@@ -11,3 +11,5 @@ My personal repository for Competitive Programming solutions.
 - `/cf`: Solutions for Codeforces contests and problem set.
 - `/cc`: Solutions for CodeChef starters and long challenges
 
+## Language
+- C++
