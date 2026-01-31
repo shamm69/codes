@@ -55,6 +55,7 @@ void solve(){
     cout << v[x-1] << endl;
 }
 
+
 int32_t main()
 {
 
