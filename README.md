@@ -10,6 +10,7 @@ My personal repository for Competitive Programming solutions.
 ## Structure
 - `/cf`: Solutions for Codeforces contests and problem set.
 - `/cc`: Solutions for CodeChef starters and long challenges
+- `/leetcode` : Solutions for Leetcode problem set.
 
 ## Language
 - C++
